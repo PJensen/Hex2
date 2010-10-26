@@ -1,0 +1,32 @@
+<project version="Crimson Editor 3.60">
+	<category name="source" expanded="yes">
+		<category name="headers" expanded="yes">
+			<localfile path="C:\Documents and Settings\pjensen\Desktop\HEX_2\board.h" />
+			<localfile path="C:\Documents and Settings\pjensen\Desktop\HEX_2\error.h" />
+			<localfile path="C:\Documents and Settings\pjensen\Desktop\HEX_2\globals.h" />
+			<localfile path="C:\Documents and Settings\pjensen\Desktop\HEX_2\graph.h" />
+			<localfile path="C:\Documents and Settings\pjensen\Desktop\HEX_2\mouse.h" />
+			<localfile path="C:\Documents and Settings\pjensen\Desktop\HEX_2\score.h" />
+		</category>
+		<localfile path="C:\Documents and Settings\pjensen\Desktop\HEX_2\board.c" />
+		<localfile path="C:\Documents and Settings\pjensen\Desktop\HEX_2\compile.bat" />
+		<localfile path="C:\Documents and Settings\pjensen\Desktop\HEX_2\error.c" />
+		<localfile path="C:\Documents and Settings\pjensen\Desktop\HEX_2\graph.c" />
+		<localfile path="C:\Documents and Settings\pjensen\Desktop\HEX_2\main.c" />
+		<localfile path="C:\Documents and Settings\pjensen\Desktop\HEX_2\score.c" />
+	</category>
+</project>
+
+<workspace version="Crimson Editor 3.60">
+	<localfile path="C:\Documents and Settings\pjensen\Desktop\HEX_2\globals.h" linenum="48" placement="0:1:-1:-1:-4:-30:110:145:776:455" />
+	<localfile path="C:\Documents and Settings\pjensen\Desktop\HEX_2\board.h" linenum="130" placement="0:1:-1:-1:-4:-30:0:0:666:310" />
+	<localfile path="C:\Documents and Settings\pjensen\Desktop\HEX_2\board.c" linenum="673" placement="0:1:-1:-1:-4:-30:44:58:710:368" />
+	<localfile path="C:\Documents and Settings\pjensen\Desktop\HEX_2\tile.h" linenum="52" placement="0:1:-1:-1:-4:-30:66:87:732:397" />
+	<localfile path="C:\Documents and Settings\pjensen\Desktop\HEX_2\tile.c" linenum="255" placement="0:1:-1:-1:-4:-30:88:116:754:426" />
+	<localfile path="C:\Documents and Settings\pjensen\Desktop\HEX_2\sounds.h" linenum="36" placement="0:1:-1:-1:-4:-30:66:87:754:397" />
+	<localfile path="C:\Documents and Settings\pjensen\Desktop\HEX_2\main.c" linenum="302" placement="2:3:-1:-1:-4:-30:0:0:750:310" />
+	<localfile path="C:\Documents and Settings\pjensen\Desktop\HEX_2\compile.bat" linenum="12" placement="0:1:-1:-1:-4:-30:22:29:750:339" />
+	<localfile path="C:\Documents and Settings\pjensen\Desktop\HEX_2\sounds.c" linenum="12" placement="0:1:-1:-1:-4:-30:44:58:772:368" />
+	<localfile path="C:\Documents and Settings\pjensen\Desktop\HEX_2\score.c" linenum="90" placement="0:1:-1:-1:-4:-30:88:116:838:414" />
+</workspace>
+
